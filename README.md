@@ -57,6 +57,8 @@ I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iqballa24&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iqballa24&layout=compact&theme=radical)
+
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iqballa24&theme=radical)
 <!--
 **iqballa24/iqballa24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
