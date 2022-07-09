@@ -9,9 +9,6 @@
     <a href="https://www.instagram.com/tiqbalnugraha_/">
       <img src="https://img.shields.io/badge/Instagram-maroon?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-    <a href="https://www.youtube.com/channel/UCPVcVbuhQwk5Jqg8fWqBgbg">
-      <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
   </div>
   <div id="profile" align="center">
     <img src="https://komarev.com/ghpvc/?username=iqballa24&style=flat-square&color=blue" alt="" />
@@ -29,7 +26,16 @@ I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 - 🌱 Exploring and learning about machine learning and UI/UX design
 - ⚡ Fun Fact : Needed Coffee while working ☕
 
----
+<br/>
+
+### :fire: Stats :
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=iqballa24&show_icons=true&theme=radical" width="50%"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqballa24&layout=compact&theme=radical" width="41.5%"></img>
+<div>
+
+<br/>
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -49,27 +55,3 @@ I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
- 
- --- 
- 
-### :fire: Stats :
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iqballa24&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iqballa24&layout=compact&theme=radical)
-
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iqballa24&theme=radical)
-<!--
-**iqballa24/iqballa24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
