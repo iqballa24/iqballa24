@@ -19,21 +19,12 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :technologist: About Me :
 I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/255px-Flag_of_Indonesia.svg.png" width="25">. I am an undergraduate Informatics Engineering student with strong passion to learn new things about technologies. I am familiar with a HTML, CSS, javascript, SQL, PHP, and some web development frameworks. Currently I'm also interested and learning about Machine Leanring and UI/UX design. I able to work individually or as a team. 
 
 - 🔭 I’m currently working as a Front End Developer Intern at a company in Indonesia
 - 🌱 Exploring and learning about machine learning and UI/UX design
 - ⚡ Fun Fact : Needed Coffee while working ☕
-
-<br/>
-
-### :fire: Stats :
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iqballa24&show_icons=true&theme=radical" width="50%"></img>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqballa24&layout=compact&theme=radical" width="41.5%"></img>
-<div>
 
 <br/>
 
@@ -55,3 +46,12 @@ I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+<br/>
+
+### 📈 Stats :
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=iqballa24&show_icons=true&theme=radical" width="50%"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqballa24&layout=compact&theme=radical" width="41.5%"></img>
+<div>
