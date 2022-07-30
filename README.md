@@ -22,7 +22,6 @@
 ### :technologist: About Me :
 I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/255px-Flag_of_Indonesia.svg.png" width="25">. I am an undergraduate Informatics Engineering student with strong passion to learn new things about technologies. I am familiar with a HTML, CSS, javascript, SQL, PHP, and some web development frameworks. Currently I'm also interested and learning about Machine Leanring and UI/UX design. I able to work individually or as a team. 
 
-- 🔭 I’m currently working as a Front End Developer Intern at a company in Indonesia
 - 🌱 Exploring and learning about machine learning and UI/UX design
 - ⚡ Fun Fact : Needed Coffee while working ☕
 
