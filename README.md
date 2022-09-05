@@ -24,7 +24,6 @@ I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - 🌱 Exploring and learning about machine learning and UI/UX design
 - ⚡ Fun Fact : Needed Coffee while working ☕
-- ✌️ This github account contains for backup files
 
 <br/>
 
