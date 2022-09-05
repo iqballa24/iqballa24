@@ -54,5 +54,4 @@ I am a web developer from Indonesia. I am an undergraduate Informatics Engineeri
   <img alt="Iqballa24's github stats" src="https://github-readme-stats.vercel.app/api?username=iqballa24&show_icons=true&theme=calm&hide_border=true" height="130"></img>
   <img alt="Iqballa24's most used languange" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqballa24&layout=compact&langs_count=8&theme=calm&hide=Jupyter%20Notebook&count_private=true&hide_border=true" height="130"></img>
  <img title="iqballa24 streak stats" alt="Iqballa24's streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=iqballa24&theme=calm&hide_border=true" height="130"/>
- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Iqballa24's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=iqballa24&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" height="300"/></a>
 <div>
