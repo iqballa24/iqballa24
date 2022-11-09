@@ -19,7 +19,7 @@
 
 ---
 
-I am a web developer from Indonesia. I am an undergraduate Informatics Engineering student with strong passion to learn new things about technologies. I am familiar with a HTML, CSS, javascript, SQL, PHP, and some web development frameworks. Currently I'm also interested and learning about Machine Leanring and UI/UX design. I able to work individually or as a team. 
+I am a web developer from Indonesia. I am an undergraduate Informatics Engineering student with strong passion to learn new things about technologies. I am familiar with a HTML, CSS, javascript, SQL, PHP, and some web development frameworks. Currently I'm also interested and learning about machine learning and UI/UX design. I able to work individually or as a team. 
 
 - 🌱 Exploring and learning about machine learning and UI/UX design
 - ⚡ Fun Fact : Needed Coffee while working ☕
