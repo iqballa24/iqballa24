@@ -31,7 +31,6 @@ I am a web developer from Indonesia and I have a strong passion to learn new thi
 ### 📊 Github Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iqballa24&theme=github_dark&layout=compact&langs_count=10&range=all_time" />
   <img alt="Iqballa24's github stats" src="https://github-readme-stats.vercel.app/api?username=iqballa24&show_icons=true&theme=github_dark&hide_border=true" height="130"></img>
   <img alt="Iqballa24's most used languange" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqballa24&layout=compact&langs_count=8&theme=github_dark&hide=Jupyter%20Notebook&count_private=true&hide_border=true" height="130"></img>
  <img title="iqballa24 streak stats" alt="Iqballa24's streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=iqballa24&theme=github_dark&hide_border=true" height="130"/>
