@@ -12,6 +12,7 @@
   </div>
   <div id="profile" align="center">
     <img src="https://komarev.com/ghpvc/?username=iqballa24&style=flat-square&color=blue" alt="" />
+    <a href="https://wakatime.com/@e0a766ff-54dc-4922-8f95-0861820c05c7"><img src="https://wakatime.com/badge/user/e0a766ff-54dc-4922-8f95-0861820c05c7.svg" alt="Total time coded since Jun 10 2022" /></a>
     <br/>
     <h2>Hi there 👋, i'm Tengku Iqbal Nugraha</h3>
   </div>
